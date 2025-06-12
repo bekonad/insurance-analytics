@@ -21,9 +21,9 @@ This repository contains the code and documentation for the 10 Academy Artificia
 - `/docs`: Documentation and reports
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/your-username/insurance-analytics.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Set up DVC for data versioning (see Task 2).
+1. Clone the repository: `git clone https://github.com/bekonad/insurance-analytics.git`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Set up DVC for data versioning (see Task 2).
 
 ## Team
 - Facilitators: Mahlet, Kerod, Rediet, Rehmet
